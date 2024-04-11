@@ -1,0 +1,60 @@
+{
+    "_meta": {
+        "sources": [
+            {
+                "json": "TT",
+                "abbreviation": "TT",
+                "full": "Traskil's Treasures",
+                "authors": [
+                    "Billius McGiles"
+                ],
+                "convertedBy": [
+                    "Billius Mcgiles"
+                ],
+                "version": "1.0",
+                "url": "https://www.dmsguild.com/product/440795/Traskils-Treasures-30-Out-of-the-Vault",
+                "targetSchema": "1.0"
+            }
+        ],
+        "status":"ready",
+        "dateAdded": 1712722345,
+        "dateLastModified": 1712722345
+    },
+    "item": [
+        {
+            "name": "Fate's Call",
+            "source": "TT",
+            "page": "19",
+            "type": "$",
+            "rarity": "artifact",
+            "reqAttune":" ",
+            "wondrous":"true",
+            "entries": [
+                "This twenty-sided die is about eight inches in diameter and weighs almost a pound. Its outer shell is encrusted with crushed rubies and onyx and from around each of its faces bright purple energy pulses in time with the attuned's heartbeat. Each face is blank",
+                "When a creature attunes to this artifact they must succeed a [DC 18] Wisdom Saving Throw or this becomes a cursed item. If cursed this item cannot be unattuned from without the aid of a {@spell greater restoration} spell. Once attuned you choose the command word to activate Fate's Call",
+                "Once per day, as an action, an attuned creature can speak their command word to summon and roll Fate's Call",
+                "When an action is spent to roll Fate's Call, roll a D20 and follow the table for the effect of the roll",
+                "1- Cast lvl 4 Fireball centered on the Attuned",
+                "2- Attuned creatures' Intelligence score is decreased by 2 for 1 hour",
+                "3- Cast Slow Centered on Attuned",
+                "4- Cast Toll the dead on The Attuned [2d10/2d12]",
+                "5- Cast Lvl. 5 Sleep centered on the Attuned",
+                "6- The attuned makes a Wisdom Saving Throw or is knocked prone and takes 4d6 Psychic",
+                "7- Rain 100 cp in a 5ft. Radius around the Attuned",
+                "8- Cast Lvl. 2 Magic Missle at Random Creatures within range of the attuned",
+                "9- Lower the Attuned creatures AC by 1 for 1 Hour",
+                "10- Attuned creature loses 5ft. of Speed for 1 hour",
+                "11- Rain 150 gp in a 5ft. radius around the Attuned Creature",
+                "12- Attuned creature gains +10 of Speed for 2 Hours",
+                "13- The Attuned gains a Fly speed equal to their walking speed",
+                "14- Cast Death Ward on The Attuned",
+                "15- The Attuned gains the Evasion feature for 1 Hour",
+                "16- Caste Haste on the Attuned",
+                "17- Raised Attuned creatures AC by +2",
+                "18- Cast Tensers Transformation on the Attuned",
+                "19- The Attuned gains the Benefits of a Short Rest",
+                "20- The Attuned Creatures Proficiency Bonus is +1 for 8 hours"
+            ]
+        }
+    ]
+}
